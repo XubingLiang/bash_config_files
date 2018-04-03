@@ -1,10 +1,24 @@
-# Bash Configuration Files
+# Bash Config Files
 
-## Instructions
+these config files is for bash on Mac OS
 
-Open terminal and git clone to the home directory, or download and extract to a folder in the home directory.
+## how to install
+git clone to the home directory
+two dependencies are needed:
+- bash-git-prompt https://github.com/magicmonty/bash-git-prompt
+```sh
+$ cd ~/bash_config_files
+$ git clone git@github.com:magicmonty/bash-git-prompt.git
+```
+- dircolors-solarized https://github.com/seebi/dircolors-solarized
+```sh
+$ cd ~/bash_config_files
+$ git clone git@github.com:seebi/dircolors-solarized.git
+````
 
-Afterwards, run setup.sh to make a bunch of symbolic links from the home directory ~ to the folder
-containing the git repo. By creating symlinks, this ensures that the dotconfig files can be updated using git.
-
-Warning: running setup.sh will delete any dotconfig files and replace them with symlinks to the local git directory!
+then
+make symbol link
+```sh
+$ cd ~/bash_config_files
+$ ./setup.sh
+```
