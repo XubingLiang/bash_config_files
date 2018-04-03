@@ -1,0 +1,11 @@
+# Shows all if there is more than one choice for completion
+set show-all-if-ambiguous on
+
+# Case-insensitive matching
+set completion-ignore-case on
+
+# Treats hyphens and underscores as equivalent during completion
+set completion-map-case on
+
+# menu-display will display options once before cycling through them
+set menu-complete-display-prefix on
