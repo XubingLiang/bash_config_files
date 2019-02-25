@@ -25,7 +25,7 @@ $ ./setup.sh
 ```
 
 - Iterm2 -> preference -> profile -> color -> color presets -> solarized dark
-- follow step 3 in the following link to ste up font(you can also follow the step for the original terminal to set up)
+- follow step 3 in the following link to ste up font(you can also follow all the steps for the original terminal to set up)
 https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
 
 
