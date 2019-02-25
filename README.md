@@ -22,3 +22,7 @@ make symbol link
 $ cd ~/bash_config_files
 $ ./setup.sh
 ```
+
+- Iterm2 -> preference -> profile -> color -> color presets -> solarized dark
+- follow step 3 in the following link to ste up font
+https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
