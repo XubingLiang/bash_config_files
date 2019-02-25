@@ -1,6 +1,6 @@
 # Bash Config Files
 
-`notice: this config is only working for iterm2, it will make your original terminal ugly unless you do some customisation on it`
+`notice: this config is only working for iterm2, it will make your original terminal ugly unless you do the same customisation on it`
 
 these config files is for bash on Mac OS
 
@@ -25,7 +25,7 @@ $ ./setup.sh
 ```
 
 - Iterm2 -> preference -> profile -> color -> color presets -> solarized dark
-- follow step 3 in the following link to ste up font
+- follow step 3 in the following link to ste up font(you can also follow the step for the original terminal to set up)
 https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
 
 
