@@ -24,8 +24,10 @@ $ cd ~/bash_config_files
 $ ./setup.sh
 ```
 
+`notice: you can also do this two steps to original terminl to make it looks pretty`
 - Iterm2 -> preference -> profile -> color -> color presets -> solarized dark
-- follow step 3 in the following link to ste up font(you can also follow all the steps for the original terminal to set up)
+- Iterm2: Iterm2 -> preference -> profile -> text -> change -> (change to the front you want, you may need to download it)
+- you can follow step 3 in the following link to download/set up font
 https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
 
 
