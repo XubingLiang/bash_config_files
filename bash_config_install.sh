@@ -10,10 +10,10 @@ cd ~ && ln -s $bash_config_dir/.bash_aliases .bash_aliases && echo "Successfully
 cd ~ && ln -s $bash_config_dir/.bash_functions .bash_functions && echo "Successfully created symbolic link for .bash_functions"
 cd ~ && ln -s $bash_config_dir/.bash_profile .bash_profile && echo "Successfully created symbolic link for .bash_profile"
 cd ~ && ln -s $bash_config_dir/.bash_sessions_disable .bash_sessions_disable && echo "Successfully created symbolic link for .bash_sessions_disable"
-cd ~ && ln -s $bash_config_dir/.bash-git-prompt .bash-git-prompt && echo "Successfully created symbolic link for .bash-git-prompt"
+cd ~ && ln -s $bash_config_dir/bash-git-prompt .bash-git-prompt && echo "Successfully created symbolic link for .bash-git-prompt"
 cd ~ && ln -s $bash_config_dir/.bashrc .bashrc && echo "Successfully created symbolic link for .bashrc"
 cd ~ && ln -s $bash_config_dir/.dircolors .dircolors && echo "Successfully created symbolic link for .dircolors"
-cd ~ && ln -s $bash_config_dir/.dircolors-solarized .dircolors-solarized && echo "Successfully created symbolic link for .dircolors-solarized"
+cd ~ && ln -s $bash_config_dir/dircolors-solarized .dircolors-solarized && echo "Successfully created symbolic link for .dircolors-solarized"
 cd ~ && ln -s $bash_config_dir/.git-prompt-colors.sh .git-prompt-colors.sh && echo "Successfully created symbolic link for .git-prompt-colors.sh"
 cd ~ && ln -s $bash_config_dir/.inputrc && echo "Successfully created symbolic link for .inputrc"
 

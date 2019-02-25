@@ -1,5 +1,7 @@
 # Bash Config Files
 
+`notice: this config is only working for iterm2, it will make your original terminal ugly unless you do some customisation on it`
+
 these config files is for bash on Mac OS
 
 ## how to install
@@ -16,8 +18,7 @@ $ cd ~/bash_config_files
 $ git clone git@github.com:seebi/dircolors-solarized.git
 ````
 
-then
-make symbol link
+- then make symbol link
 ```sh
 $ cd ~/bash_config_files
 $ ./setup.sh
@@ -26,3 +27,6 @@ $ ./setup.sh
 - Iterm2 -> preference -> profile -> color -> color presets -> solarized dark
 - follow step 3 in the following link to ste up font
 https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22
+
+
+`if you don't like the setting, just run ./bash_config_remove_old.sh`
