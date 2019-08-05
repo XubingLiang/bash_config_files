@@ -18,6 +18,11 @@ $ cd ~/bash_config_files
 $ git clone git@github.com:seebi/dircolors-solarized.git
 ````
 
+- install dircolors
+```sh
+$ brew install coreutils
+````
+
 - then make symbol link
 ```sh
 $ cd ~/bash_config_files
