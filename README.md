@@ -37,3 +37,5 @@ https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-
 
 
 `if you don't like the setting, just run ./bash_config_remove_old.sh`
+
+screencapture-freecodecamp-org-news-jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22-2019-10-17-11_01_05.png
