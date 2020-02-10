@@ -60,7 +60,6 @@ export CSCOPE_EDITOR=`which vim`
 alias cse="ssh -Y z5039153@wagner.cse.unsw.edu.au"
 alias rdns="sudo killall -HUP mDNSResponder"
 alias prolog="swipl"
-alias hap="cd hivetec/jsmonkey && ~/hivetec/jsmonkey/node_modules/anyproxy/bin.js --intercept --port 8080 --rule ~/hivetec/jsmonkey/proxy/rules.js"
 alias wtf="echo 'ಠ_ಠ'"
 #" | pbcopy"
 
